@@ -1,0 +1,35 @@
+============================================================
+ИНФОРМАЦИЯ ОБ ОБРАБОТКЕ ДОМЕНА
+============================================================
+
+Домен: playjonny-spiel.de
+Дата обработки: 2026-01-21 17:17:55
+Количество замен localhost: 542
+Изменено файлов: 29
+Осталось localhost: 0
+Статус: processed
+
+Измененные файлы:
+  1. 404.html
+  2. index.html
+  3. index.xml
+  4. robots.txt
+  5. sitemap.xml
+  6. allgemeine-geschaeftsbedingungen\index.html
+  7. allgemeine-geschaeftsbedingungen\index.xml
+  8. app\index.html
+  9. app\index.xml
+ 10. bonus\index.html
+ 11. bonus\index.xml
+ 12. categories\index.html
+ 13. categories\index.xml
+ 14. contacts\index.html
+ 15. contacts\index.xml
+ 16. cookie-richtlinie\index.html
+ 17. cookie-richtlinie\index.xml
+ 18. datenschutzrichtlinie\index.html
+ 19. datenschutzrichtlinie\index.xml
+ 20. login\index.html
+... и еще 9 файлов
+
+============================================================

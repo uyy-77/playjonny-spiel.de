@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://playjonny-spiel.de:1313/sitemap.xml
+Sitemap: http://playjonny-spiel.de/sitemap.xml

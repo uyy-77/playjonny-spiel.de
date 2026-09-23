@@ -1,0 +1,11 @@
+name = "playjonny-spiel-de"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=playjonny-spiel.de"
+HMAC_KEY = "bbfa45dc1560bfde149d0a839eeff8178f83476ce376ceb05a7903d50c58fad3"
+COOKIE_NAME = "kaj"
+PLAY_PATH = "explore"
+BUTTON_ID = "pd25dec0ed51bcc39f0e97602084a07fd"
+GATE_SALT = "a2b1c9a6d5542180"
